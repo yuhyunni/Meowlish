@@ -1,0 +1,162 @@
+{
+  "Momo has two apples and one banana.": {
+    "file": "listen-001.mp3",
+    "voice": "af_heart"
+  },
+  "Mia has a red bag and a blue hat.": {
+    "file": "listen-002.mp3",
+    "voice": "am_michael"
+  },
+  "The shop opens at nine and closes at six.": {
+    "file": "listen-003.mp3",
+    "voice": "af_heart"
+  },
+  "Ben feeds his cat before breakfast.": {
+    "file": "listen-004.mp3",
+    "voice": "am_michael"
+  },
+  "I usually take the bus to school, but today I walked because the weather was nice.": {
+    "file": "listen-005.mp3",
+    "voice": "af_heart"
+  },
+  "I ordered tea instead of coffee because I wanted something light.": {
+    "file": "listen-006.mp3",
+    "voice": "am_michael"
+  },
+  "The library is closed on Mondays but open every other day.": {
+    "file": "listen-007.mp3",
+    "voice": "af_heart"
+  },
+  "We missed the bus, so we took a taxi to the station.": {
+    "file": "listen-008.mp3",
+    "voice": "am_michael"
+  },
+  "The train was delayed by twenty minutes because of heavy rain, so I missed the beginning of the meeting.": {
+    "file": "listen-009.mp3",
+    "voice": "af_heart"
+  },
+  "Although the hotel was far from the center, its shuttle service made traveling easy.": {
+    "file": "listen-010.mp3",
+    "voice": "am_michael"
+  },
+  "I used to study late at night, but now I concentrate better in the morning.": {
+    "file": "listen-011.mp3",
+    "voice": "af_heart"
+  },
+  "The museum waived the entrance fee for students who presented a valid ID.": {
+    "file": "listen-012.mp3",
+    "voice": "am_michael"
+  },
+  "Although the project initially exceeded its budget, the team managed to reduce expenses by renegotiating contracts.": {
+    "file": "listen-013.mp3",
+    "voice": "af_heart"
+  },
+  "The committee postponed its decision until independent experts had reviewed the proposal.": {
+    "file": "listen-014.mp3",
+    "voice": "am_michael"
+  },
+  "Despite higher initial costs, the new equipment is expected to reduce energy consumption.": {
+    "file": "listen-015.mp3",
+    "voice": "af_heart"
+  },
+  "The survey excluded incomplete responses to improve the reliability of the results.": {
+    "file": "listen-016.mp3",
+    "voice": "am_michael"
+  },
+  "The findings suggest that access to education alone is insufficient unless broader socioeconomic barriers are also addressed.": {
+    "file": "listen-017.mp3",
+    "voice": "af_heart"
+  },
+  "The policy may benefit urban residents while inadvertently imposing additional burdens on rural communities.": {
+    "file": "listen-018.mp3",
+    "voice": "am_michael"
+  },
+  "The researchers cautioned that an observed association should not be interpreted as evidence of causation.": {
+    "file": "listen-019.mp3",
+    "voice": "af_heart"
+  },
+  "A transparent appeals process can strengthen institutional legitimacy even when decisions remain contested.": {
+    "file": "listen-020.mp3",
+    "voice": "am_michael"
+  },
+  "The apparent precision of the forecast belies the considerable uncertainty inherent in its underlying assumptions.": {
+    "file": "listen-021.mp3",
+    "voice": "af_heart"
+  },
+  "The apparent coherence of the narrative obscures several assumptions that have yet to be substantiated.": {
+    "file": "listen-022.mp3",
+    "voice": "am_michael"
+  },
+  "The reform’s ostensibly neutral criteria may perpetuate disparities embedded in existing institutional practices.": {
+    "file": "listen-023.mp3",
+    "voice": "af_heart"
+  },
+  "The author distinguishes epistemic humility from an indiscriminate reluctance to draw conclusions.": {
+    "file": "listen-024.mp3",
+    "voice": "am_michael"
+  },
+  "Hello! What is your name?": {
+    "file": "speak-001.mp3",
+    "voice": "af_heart"
+  },
+  "Nice to meet you! What food do you like?": {
+    "file": "speak-002.mp3",
+    "voice": "af_heart"
+  },
+  "Great! What do you do on weekends?": {
+    "file": "speak-003.mp3",
+    "voice": "af_heart"
+  },
+  "Tell me about your favorite place.": {
+    "file": "speak-004.mp3",
+    "voice": "af_heart"
+  },
+  "What is a skill you would like to learn, and why?": {
+    "file": "speak-005.mp3",
+    "voice": "af_heart"
+  },
+  "What challenges might you face while learning it?": {
+    "file": "speak-006.mp3",
+    "voice": "af_heart"
+  },
+  "How could you overcome those challenges?": {
+    "file": "speak-007.mp3",
+    "voice": "af_heart"
+  },
+  "How might this skill change your future?": {
+    "file": "speak-008.mp3",
+    "voice": "af_heart"
+  },
+  "What do you eat for breakfast?": {
+    "file": "speak-009.mp3",
+    "voice": "af_heart"
+  },
+  "Where do you usually go after school?": {
+    "file": "speak-010.mp3",
+    "voice": "af_heart"
+  },
+  "What is your favorite animal?": {
+    "file": "speak-011.mp3",
+    "voice": "af_heart"
+  },
+  "What will you do tomorrow?": {
+    "file": "speak-012.mp3",
+    "voice": "af_heart"
+  },
+  "Where would you like to travel?": {
+    "file": "speak-013.mp3",
+    "voice": "af_heart"
+  },
+  "Why would you choose that destination?": {
+    "file": "speak-014.mp3",
+    "voice": "af_heart"
+  },
+  "How would you prepare for the trip?": {
+    "file": "speak-015.mp3",
+    "voice": "af_heart"
+  },
+  "What could you learn from traveling?": {
+    "file": "speak-016.mp3",
+    "voice": "af_heart"
+  }
+}
